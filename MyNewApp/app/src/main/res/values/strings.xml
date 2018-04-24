@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyNewApp</string>
+    <string name="degis">Button</string>
+    <string name="resim">TODO</string>
 </resources>
