@@ -2,4 +2,10 @@
     <string name="app_name">MyNewApp</string>
     <string name="degis">Button</string>
     <string name="resim">TODO</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="Ad">AutoCompleteTextView</string>
+    <string name="hosgeldiniz">Hoşgeldiniz,</string>
+    <string name="sayac">TextView</string>
+    <string name="sifirla">Sıfırla</string>
 </resources>

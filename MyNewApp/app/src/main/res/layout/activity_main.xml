@@ -4,27 +4,61 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="214dp"
-        android:layout_height="203dp"
-        android:layout_marginTop="53dp"
-        android:contentDescription="@string/resim"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/tesla11" />
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp">
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="51dp"
+        android:layout_width="100dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="140dp"
         android:onClick="degis"
         android:text="@string/degis"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/editText3"
+        app:layout_constraintStart_toEndOf="@+id/editText2"
+        app:layout_constraintTop_toTopOf="@+id/txtsoyad" />
+
+    <TextView
+        android:id="@+id/txtad"
+        android:layout_width="96dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="84dp"
+        android:text="@string/ad"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtsoyad"
+        android:layout_width="96dp"
+        android:layout_height="41dp"
+        android:layout_marginEnd="60dp"
+        android:text="@string/soyad"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintTop_toTopOf="@+id/txtad" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="96dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textAlignment="textStart"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/txtad"
+        app:layout_constraintTop_toBottomOf="@+id/txtad" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="96dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textAlignment="textStart"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/txtsoyad"
+        app:layout_constraintTop_toBottomOf="@+id/txtsoyad" />
+
 </android.support.constraint.ConstraintLayout>

@@ -1,39 +1,50 @@
 package com.example.hkn18.mynewapp;
 
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.ImageView;
-
-import java.util.Random;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
+
+    EditText ad;
+    EditText soyad;
+    SharedPreferences sharedPreferences;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        sharedPreferences = this.getSharedPreferences("com.example.hkn18.mynewapp", Context.MODE_PRIVATE);
+
+        ad = (EditText) findViewById(R.id.editText2);
+        soyad = (EditText) findViewById(R.id.editText3);
     }
 
-    int sayi = 1;
 
     public void degis(View view){
 
-        ImageView imageView = (ImageView) findViewById(R.id.imageView);
+        if(ad.getText().toString().trim().equals("") || soyad.getText().toString().trim().equals("")){
 
-        Random a = new Random();
-        sayi = a.nextInt(2);
-
-        switch (sayi){
-            case 0:
-                imageView.setImageResource(R.drawable.tesla2);
-                break;
-
-            case 1:
-                imageView.setImageResource(R.drawable.tesla11);
-                break;
+            AlertDialog.Builder alert = new AlertDialog.Builder(this);
+            alert.setTitle("Hata");
+            alert.setMessage("Alanlar Boş");
+            alert.show();
         }
+        else{
+            sharedPreferences.edit().putString("ad",ad.getText().toString()).apply();
+            sharedPreferences.edit().putString("soyad",soyad.getText().toString()).apply();
 
+            Intent intent = new Intent(getApplicationContext(), giris.class);
+            intent.putExtra("ad",sharedPreferences.getString("ad","Hatalı Ad"));
+            intent.putExtra("soyad", sharedPreferences.getString("soyad", "Hatalı Soyad"));
+            startActivity(intent);
+        }
     }
 
 }
