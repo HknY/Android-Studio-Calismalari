@@ -1,6 +1,9 @@
 ﻿<resources>
     <string name="app_name">Kenny Yakalama</string>
     <string name="todo">TODO</string>
-    <string name="sure">Süre</string>
     <string name="skor_0">Skor : 0</string>
+    <string name="oyna">Oyna</string>
+    <string name="sure_10">Süre : 10</string>
+    <string name="best_skor">En Yüksek Skor</string>
+    <string name="titre">Titreşim</string>
 </resources>
