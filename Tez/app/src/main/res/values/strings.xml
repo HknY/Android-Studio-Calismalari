@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tez</string>
+    <string name="resim">Resim</string>
+    <string name="oku">Oku</string>
+    <string name="se">Seç</string>
+    <string name="todo">TODO</string>
+    <string name="galeriden_resim_al">Galeriden Al</string>
+    <string name="kameradan_resim_al">Kameradan Al</string>
+    <string name="yazi">Yazi</string>
+</resources>

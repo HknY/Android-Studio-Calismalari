@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light">
+
+    <TextView
+        android:id="@+id/post_posta_txt"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:gravity="center"
+        android:inputType="text"
+        android:text="@string/e_posta2"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/post_resim_img"
+        android:layout_width="315dp"
+        android:layout_height="315dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="@+id/post_posta_txt"
+        app:layout_constraintTop_toBottomOf="@+id/post_posta_txt"
+        app:srcCompat="@drawable/ic_launcher_background"
+        android:contentDescription="@string/todo3" />
+
+    <TextView
+        android:id="@+id/post_aciklama_txt"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/a_klama2"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/post_resim_img"
+        app:layout_constraintTop_toBottomOf="@+id/post_resim_img" />
+</android.support.constraint.ConstraintLayout>

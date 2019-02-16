@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731500040965",
+    "firebase_url": "https://instagramdeneme-ba78c.firebaseio.com",
+    "project_id": "instagramdeneme-ba78c",
+    "storage_bucket": "instagramdeneme-ba78c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731500040965:android:98a2a9ff082461a2",
+        "android_client_info": {
+          "package_name": "com.example.hkn18.instagram_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731500040965-bliuvgu1ec7vtappmadvgvkjgp8b8tkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hkn18.instagram_deneme",
+            "certificate_hash": "3e72b1f1708d5563e50cadd4cd60a25ca5bbd582"
+          }
+        },
+        {
+          "client_id": "731500040965-pa0ltv05cq3ck5iqca8l1n0ns5kkohkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-ZdGt2BozH9vdBrWILDpaNN9_CjICKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731500040965-pa0ltv05cq3ck5iqca8l1n0ns5kkohkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

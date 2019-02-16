@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1034747305528",
+    "firebase_url": "https://tezdeneme-b89dd.firebaseio.com",
+    "project_id": "tezdeneme-b89dd",
+    "storage_bucket": "tezdeneme-b89dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034747305528:android:a850c1d79712cd3e",
+        "android_client_info": {
+          "package_name": "com.example.hkn18.tez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034747305528-gn9jvcpvmtdv5ntnohrfks7qjtiqlvfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIcw6VWM1_W1Yw8Jhrhl3XPmMU00dYH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034747305528:android:7fcf97df1aa4f9aa",
+        "android_client_info": {
+          "package_name": "com.example.hkn18.tezdeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034747305528-gn9jvcpvmtdv5ntnohrfks7qjtiqlvfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIcw6VWM1_W1Yw8Jhrhl3XPmMU00dYH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

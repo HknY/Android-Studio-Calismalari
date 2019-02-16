@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light">
+
+    <EditText
+        android:id="@+id/grs_posta_txt"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="175dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="@string/hkn1899_gmail_com"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/grs_giris_btn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="32dp"
+        android:onClick="giris"
+        android:text="@string/giri"
+        app:layout_constraintEnd_toEndOf="@+id/grs_sifre_txt"
+        app:layout_constraintTop_toBottomOf="@+id/grs_sifre_txt" />
+
+    <EditText
+        android:id="@+id/grs_sifre_txt"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="34dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:text="@string/asd123"
+        app:layout_constraintEnd_toEndOf="@+id/grs_posta_txt"
+        app:layout_constraintStart_toStartOf="@+id/grs_posta_txt"
+        app:layout_constraintTop_toBottomOf="@+id/grs_posta_txt" />
+
+    <Button
+        android:id="@+id/grs_kayit_btn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:onClick="kayit"
+        android:text="@string/kaydol"
+        app:layout_constraintBaseline_toBaselineOf="@+id/grs_giris_btn"
+        app:layout_constraintStart_toStartOf="@+id/grs_sifre_txt" />
+
+</android.support.constraint.ConstraintLayout>

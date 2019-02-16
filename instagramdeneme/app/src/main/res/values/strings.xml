@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">instagram-deneme</string>
+    <string name="giri">Giriş</string>
+    <string name="hkn1899_gmail_com">hkn1899@gmail.com</string>
+    <string name="asd123">asd123</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="nstagram">İnstagram</string>
+    <string name="a_klama">Açıklama</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="g_nder1">Gönder</string>
+    <string name="a_klama2">Açıklama</string>
+    <string name="e_posta2">e-posta</string>
+    <string name="todo3">TODO</string>
+</resources>
