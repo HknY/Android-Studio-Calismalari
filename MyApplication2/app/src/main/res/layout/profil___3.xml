@@ -1,0 +1,1010 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the PSD File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		ho_geldin___1
+	 *	@date 		0
+	 *	@title 		Hogeldin  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.8.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/profil___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="667dp" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_profil___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__profil___3_ek2"
+					android:background="@drawable/_bg__profil___3_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="667dp" />
+
+
+				<RelativeLayout android:id="@+id/footer_ek34"
+					android:layout_marginTop="616dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_6_ek34"
+						android:background="@drawable/rectangle_6_ek34_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="15dp"
+						android:layout_width="375dp"
+						android:layout_height="42.291748046875dp" />
+
+
+					<RelativeLayout android:id="@+id/acil_teknik_destek_ek34"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="156dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_18_ek34"
+							android:src="@drawable/path_18_ek34"
+							android:contentDescription="path_18_ek34"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="63.2314453125dp"
+							android:layout_height="89dp" />
+
+						<ImageView android:id="@+id/repairing_service_ek34"
+							android:src="@drawable/repairing_service_ek34"
+							android:contentDescription="repairing_service_ek34"
+							 android:layout_marginLeft="14dp"
+							 android:layout_marginStart="14dp"
+							android:layout_marginTop="14dp"
+							android:layout_width="35.747192382812dp"
+							android:layout_height="35.74755859375dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yan_se_enekler_ek34"
+						android:layout_marginTop="18dp"
+						android:layout_marginStart="44dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/ileti_im_ek34"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="209dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_13_ek34"
+								android:src="@drawable/path_13_ek34"
+								android:contentDescription="path_13_ek34"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="28.922973632812dp"
+								android:layout_height="25.709228515625dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/history_clock_button_ek34"
+							android:layout_marginTop="1dp"
+							android:layout_marginStart="210dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/history_ek34"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_29_ek34"
+									android:src="@drawable/path_29_ek34"
+									android:contentDescription="path_29_ek34"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26.047607421875dp"
+									android:layout_height="24.86083984375dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/profil_ek37"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="269dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_14_ek34"
+								android:src="@drawable/path_14_ek34"
+								android:contentDescription="path_14_ek34"
+								 android:layout_marginLeft="5dp"
+								 android:layout_marginStart="5dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="10.522094726562dp"
+								android:layout_height="12.7802734375dp" />
+
+
+
+							<ImageView android:id="@+id/path_17_ek34"
+								android:src="@drawable/path_17_ek34"
+								android:contentDescription="path_17_ek34"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="13dp"
+								android:layout_width="19.87353515625dp"
+								android:layout_height="12.861328125dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/konum_ek34"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="57dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/facebook_places_ek34"
+								android:src="@drawable/facebook_places_ek34"
+								android:contentDescription="facebook_places_ek34"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="17.6318359375dp"
+								android:layout_height="25.59423828125dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/sepetim_ek37"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/shopping_cart_ek34"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_5_ek34"
+									android:src="@drawable/path_5_ek34"
+									android:contentDescription="path_5_ek34"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26dp"
+									android:layout_height="26dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/header_ek34"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_5_ek34"
+						android:background="@drawable/rectangle_5_ek34_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="375dp"
+						android:layout_height="82.291625976562dp" />
+
+
+					<RelativeLayout android:id="@+id/arama_kutusu_ek34"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_10_ek34"
+							android:src="@drawable/path_10_ek34"
+							android:contentDescription="path_10_ek34"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="375dp"
+							android:layout_height="35.416625976562dp" />
+
+
+						<RelativeLayout android:id="@+id/microphone_ek34"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="353dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_8_ek34"
+								android:src="@drawable/path_8_ek34"
+								android:contentDescription="path_8_ek34"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="8dp"
+								android:layout_width="9.1670532226562dp"
+								android:layout_height="8.5224609375dp" />
+
+							<ImageView android:id="@+id/path_9_ek34"
+								android:src="@drawable/path_9_ek34"
+								android:contentDescription="path_9_ek34"
+								 android:layout_marginLeft="1dp"
+								 android:layout_marginStart="1dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="6.3023681640625dp"
+								android:layout_height="13.067749023438dp" />
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_r_n__kategori_veya_marka_ara____ek34"
+							android:fontFamily="Roboto"
+							android:alpha="0.5"
+							 android:textSize="12sp"
+							android:textColor="#000000"
+							android:layout_marginLeft="49dp"
+							android:layout_marginTop="8dp"
+							android:layout_width="172dp"
+							android:layout_height="18dp"
+							android:text="rn, kategori veya marka ara..."
+							 />
+
+
+						<RelativeLayout android:id="@+id/arama_ikonu_ek34"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="17dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_6_ek34"
+								android:src="@drawable/path_6_ek34"
+								android:contentDescription="path_6_ek34"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="16.535400390625dp"
+								android:layout_height="16.4013671875dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/arama_kutucu_u_ek34"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="4dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/search_field_ek34"
+							android:background="@drawable/search_field_ek34_shape"
+							 android:alpha="0.12156862745098"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="366.51385498047dp"
+							android:layout_height="36dp" />
+
+
+						<RelativeLayout android:id="@+id/action_ek34"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="343dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/dictation_ek34"
+								android:src="@drawable/dictation_ek34"
+								android:contentDescription="dictation_ek34"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="11.999694824219dp"
+								android:layout_height="18.999877929688dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/search_ek68"
+							android:layout_marginTop="8dp"
+							android:layout_marginStart="31dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/muted_ek70"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/___text_ek37"
+									android:fontFamily="SF Pro Text"
+									android:textSize="17sp"
+									android:textColor="#000000"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="304dp"
+									android:layout_height="25dp"
+									android:text="rn, kategori veya marka ara..."
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/search_ek69"
+							android:src="@drawable/search_ek69"
+							android:contentDescription="search_ek69"
+							 android:layout_marginLeft="10dp"
+							 android:layout_marginStart="10dp"
+							android:layout_marginTop="11dp"
+							android:layout_width="14dp"
+							android:layout_height="13.999145507812dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_st_men__ek34"
+						android:layout_marginTop="10dp"
+						android:layout_marginStart="17dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/bildirim_ek36"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="320dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/bell_ek34"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="5dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+
+								<RelativeLayout android:id="@+id/group_2_ek34"
+									android:layout_marginTop="0dp"
+									android:layout_marginStart="0dp"
+									android:layout_width="wrap_content"
+									android:layout_height="wrap_content"
+									>
+
+
+									<RelativeLayout android:id="@+id/group_1_ek34"
+										android:layout_marginTop="0dp"
+										android:layout_marginStart="0dp"
+										android:layout_width="wrap_content"
+										android:layout_height="wrap_content"
+										>
+
+										<ImageView android:id="@+id/path_11_ek34"
+											android:src="@drawable/path_11_ek34"
+											android:contentDescription="path_11_ek34"
+											 android:layout_marginLeft="6dp"
+											 android:layout_marginStart="6dp"
+											android:layout_marginTop="18dp"
+											android:layout_width="4.9498901367188dp"
+											android:layout_height="2.4912109375dp" />
+
+										<ImageView android:id="@+id/path_12_ek34"
+											android:src="@drawable/path_12_ek34"
+											android:contentDescription="path_12_ek34"
+											 android:layout_marginLeft="0dp"
+											 android:layout_marginStart="0dp"
+											android:layout_marginTop="0dp"
+											android:layout_width="16.194152832031dp"
+											android:layout_height="17.0478515625dp" />
+
+									</RelativeLayout>
+
+								</RelativeLayout>
+
+							</RelativeLayout>
+
+							<View android:id="@+id/ellipse_1_ek34"
+								android:background="@drawable/ellipse_1_ek34_shape"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="10dp"
+								android:layout_width="12dp"
+								android:layout_height="12dp" />
+
+							<TextView android:id="@+id/_1_ek34"
+								android:fontFamily="Open Sans"
+								android:textColor="#ffffff"
+								android:layout_marginLeft="4dp"
+								android:layout_marginTop="12dp"
+								android:layout_width="9dp"
+								android:layout_height="10dp"
+								android:text="1"
+								 />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/menu_button_ek34"
+							android:layout_marginTop="3dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/menu_ek34"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_4_ek34"
+									android:src="@drawable/path_4_ek34"
+									android:contentDescription="path_4_ek34"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26.58984375dp"
+									android:layout_height="17.7265625dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/plus_ek34"
+					android:src="@drawable/plus_ek34"
+					android:contentDescription="plus_ek34"
+					 android:layout_marginLeft="121dp"
+					 android:layout_marginStart="121dp"
+					android:layout_marginTop="3dp"
+					android:layout_width="133dp"
+					android:layout_height="34dp" />
+
+
+				<RelativeLayout android:id="@+id/profi_giri__ek3"
+					android:layout_marginTop="92dp"
+					android:layout_marginStart="100dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/foto_raf_ek3"
+						android:src="@drawable/foto_raf_ek3"
+						android:contentDescription="foto_raf_ek3"
+						 android:layout_marginLeft="5dp"
+						 android:layout_marginStart="5dp"
+						android:layout_marginTop="-6dp"
+						android:layout_width="160dp"
+						android:layout_height="160dp" />
+
+					<TextView android:id="@+id/furkan__a_lar__elik_ek3"
+						android:fontFamily="Open Sans"
+						android:textSize="16sp"
+						android:textColor="#000000"
+						android:layout_marginLeft="16dp"
+						android:layout_marginTop="150dp"
+						android:layout_width="149dp"
+						android:layout_height="25dp"
+						android:text="Furkan alar elik"
+						 />
+
+					<TextView android:id="@+id/erikrende___grafik_tasar_m_ek3"
+						android:fontFamily="Open Sans"
+						android:textSize="15sp"
+						android:textColor="#000000"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="172dp"
+						android:layout_width="181dp"
+						android:layout_height="23dp"
+						android:text="Erikrende - Grafik Tasarm"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/textbox_ek7"
+					android:layout_marginTop="295dp"
+					android:layout_marginStart="12dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/yeni_parola_ek2"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_1_ek25"
+							android:background="@drawable/rectangle_1_ek25_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="349.20568847656dp"
+							android:layout_height="28dp" />
+
+
+						<RelativeLayout android:id="@+id/yeni_parola_ek3"
+							android:layout_marginTop="4dp"
+							android:layout_marginStart="13dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/___text_ek38"
+								android:fontFamily="SF Pro Text"
+								android:textSize="17sp"
+								android:textColor="#000000"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="304dp"
+								android:layout_height="25dp"
+								android:text="Yeni Parolanz Girin..."
+								 />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/eski_parola_ek2"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_24_ek7"
+							android:background="@drawable/rectangle_24_ek7_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="349.20568847656dp"
+							android:layout_height="28dp" />
+
+
+						<RelativeLayout android:id="@+id/eski_parola_ek3"
+							android:layout_marginTop="6dp"
+							android:layout_marginStart="13dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/muted_ek71"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/___text_ek39"
+									android:fontFamily="SF Pro Text"
+									android:textSize="17sp"
+									android:textColor="#000000"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="304dp"
+									android:layout_height="25dp"
+									android:text="Eski Parolanz Girin..."
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yeni_parola_yeniden_ek1"
+						android:layout_marginTop="82dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_1_ek26"
+							android:background="@drawable/rectangle_1_ek26_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="349.20568847656dp"
+							android:layout_height="28dp" />
+
+
+						<RelativeLayout android:id="@+id/yeni_parolay__yeniden_ek1"
+							android:layout_marginTop="4dp"
+							android:layout_marginStart="13dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/___text_ek40"
+								android:fontFamily="SF Pro Text"
+								android:textSize="17sp"
+								android:textColor="#000000"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="304dp"
+								android:layout_height="25dp"
+								android:text="Yeni Parolanz Tekrar Girin..."
+								 />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/parolam__de_i_tir_ek3"
+					android:layout_marginTop="418dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/mask_ek56"
+						android:background="@drawable/mask_ek56_shape"
+						 android:alpha="0"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="375dp"
+						android:layout_height="56dp" />
+
+
+					<RelativeLayout android:id="@+id/button___large___accent_ek39"
+						android:layout_marginTop="3dp"
+						android:layout_marginStart="12dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/background_ek61"
+							android:background="@drawable/background_ek61_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="350.89880371094dp"
+							android:layout_height="50dp" />
+
+
+						<RelativeLayout android:id="@+id/label_ek41"
+							android:layout_marginTop="13dp"
+							android:layout_marginStart="67dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/___label_ek42"
+								android:fontFamily="SF Pro Text"
+								android:layout_gravity="center_horizontal|center"
+								android:gravity="center"
+								android:textSize="17sp"
+								android:textColor="#ffffff"
+								android:layout_marginLeft="-3dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="218dp"
+								android:layout_height="25dp"
+								android:text="Parolam Deitir"
+								 />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/path_2_ek16"
+					android:src="@drawable/path_2_ek16"
+					android:contentDescription="path_2_ek16"
+					 android:layout_marginLeft="-5dp"
+					 android:layout_marginStart="-5dp"
+					android:layout_marginTop="-5dp"
+					android:layout_width="387.60461425781dp"
+					android:layout_height="678.30810546875dp" />
+
+
+				<RelativeLayout android:id="@+id/geri_butonu_ek19"
+					android:layout_marginTop="23dp"
+					android:layout_marginStart="28dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/arrow_ek46"
+						android:src="@drawable/arrow_ek46"
+						android:contentDescription="arrow_ek46"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="11.99951171875dp"
+						android:layout_height="20.5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/alert_ek24"
+					android:layout_marginTop="177dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/alert_ek25"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_2_ek15"
+							android:background="@drawable/rectangle_2_ek15_shape"
+							 android:layout_marginLeft="13dp"
+							 android:layout_marginStart="13dp"
+							android:layout_marginTop="29dp"
+							android:layout_width="347dp"
+							android:layout_height="148dp" />
+
+						<TextView android:id="@+id/___title_ek15"
+							android:fontFamily="SF Pro Text"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textSize="17sp"
+							android:textColor="#000000"
+							android:layout_marginLeft="31dp"
+							android:layout_marginTop="37dp"
+							android:layout_width="306dp"
+							android:layout_height="31.261352539062dp"
+							android:text="LEM BAARILI"
+							 />
+
+
+						<RelativeLayout android:id="@+id/pickers____day___time_ek16"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/background_ek62"
+								android:layout_marginTop="216dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+
+								<RelativeLayout android:id="@+id/___divider_ek16"
+									android:layout_marginTop="0dp"
+									android:layout_marginStart="0dp"
+									android:layout_width="wrap_content"
+									android:layout_height="wrap_content"
+									>
+
+
+									<RelativeLayout android:id="@+id/muted_ek72"
+										android:layout_marginTop="0dp"
+										android:layout_marginStart="0dp"
+										android:layout_width="wrap_content"
+										android:layout_height="wrap_content"
+										>
+
+										<ImageView android:id="@+id/divider_ek44"
+											android:src="@drawable/divider_ek44"
+											android:contentDescription="divider_ek44"
+											 android:layout_marginLeft="0dp"
+											 android:layout_marginStart="0dp"
+											android:layout_marginTop="0dp"
+											android:layout_width="375dp"
+											android:layout_height="0.5dp" />
+
+									</RelativeLayout>
+
+								</RelativeLayout>
+
+							</RelativeLayout>
+
+
+							<RelativeLayout android:id="@+id/top_ek22"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<View android:id="@+id/mask_ek57"
+									android:background="@drawable/mask_ek57_shape"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="375dp"
+									android:layout_height="91dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<TextView android:id="@+id/__p__parolan_z_de_i_tirildi__t_m_hesaplardan___k___yap_lacak__yeni_parolan_z_ile_tekrar_giri__yapabilirsiniz_"
+						android:fontFamily="Open Sans"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="#000000"
+						android:layout_marginLeft="50dp"
+						android:layout_marginTop="67dp"
+						android:layout_width="273dp"
+						android:layout_height="78.5dp"
+						android:text="Parolanz deitirildi. Tm hesaplardan k yaplacak. Yeni parolanz ile tekrar giri yapabilirsiniz."
+						 />
+
+
+					<RelativeLayout android:id="@+id/button_ek34"
+						android:layout_marginTop="135dp"
+						android:layout_marginStart="79dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/mask_ek58"
+							android:background="@drawable/mask_ek58_shape"
+							 android:alpha="0"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="221.58435058594dp"
+							android:layout_height="33.089965820312dp" />
+
+
+						<RelativeLayout android:id="@+id/button___large___accent_ek40"
+							android:layout_marginTop="2dp"
+							android:layout_marginStart="7dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/label_ek42"
+								android:layout_marginTop="-1855dp"
+								android:layout_marginStart="1248dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+							</RelativeLayout>
+
+
+							<RelativeLayout android:id="@+id/group_27_ek9"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<View android:id="@+id/background_ek63"
+									android:background="@drawable/background_ek63_shape"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="207.34313964844dp"
+									android:layout_height="29.544555664062dp" />
+
+								<TextView android:id="@+id/___label_ek43"
+									android:fontFamily="SF Pro Text"
+									android:layout_gravity="center_horizontal|center"
+									android:gravity="center"
+									android:textSize="15sp"
+									android:textColor="#ffffff"
+									android:layout_marginLeft="27dp"
+									android:layout_marginTop="5dp"
+									android:layout_width="147.32568359375dp"
+									android:layout_height="23.999633789062dp"
+									android:text="Giri Yap"
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

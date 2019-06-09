@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/galeri">
+
+    <fragment
+        android:id="@+id/anaSayfa"
+        android:name="com.example.myapplication.AnaSayfa"
+        android:label="fragment_ana_sayfa"
+        tools:layout="@layout/fragment_ana_sayfa" />
+    <fragment
+        android:id="@+id/galeri"
+        android:name="com.example.myapplication.Galeri"
+        android:label="fragment_galeri"
+        tools:layout="@layout/fragment_galeri" >
+        <action
+            android:id="@+id/action_galeri_to_anaSayfa"
+            app:destination="@id/anaSayfa"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_galeri_to_kamera"
+            app:destination="@id/kamera" />
+        <action
+            android:id="@+id/action_galeri_to_asd"
+            app:destination="@id/asd" />
+    </fragment>
+    <fragment
+        android:id="@+id/kamera"
+        android:name="com.example.myapplication.kamera"
+        android:label="fragment_kamera"
+        tools:layout="@layout/fragment_kamera" />
+    <activity
+        android:id="@+id/asd"
+        android:name="com.example.myapplication.asd"
+        android:label="activity_asd"
+        tools:layout="@layout/activity_asd" />
+</navigation>

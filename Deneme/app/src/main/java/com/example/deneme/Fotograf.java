@@ -30,6 +30,7 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 
 public class Fotograf extends AppCompatActivity {
 
@@ -42,6 +43,7 @@ public class Fotograf extends AppCompatActivity {
     Button btnSecCek;
     Button btnoku;
     ImageView imageView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,8 +58,10 @@ public class Fotograf extends AppCompatActivity {
 
         if (btnYazi == "Galeri") {
             btnSecCek.setText("Galeriden Seç");
+            imageView.setImageResource(R.drawable.ic_image_black_24dp);
         } else {
             btnSecCek.setText("Kameradan Çek");
+            imageView.setImageResource(R.drawable.ic_photo_camera_black_24dp);
         }
 
     }
@@ -69,14 +73,14 @@ public class Fotograf extends AppCompatActivity {
         Frame imageFrame = new Frame.Builder().setBitmap(imageBitmap).build();
         SparseArray<TextBlock> textBlocks = textRecognizer.detect(imageFrame);
 
-        for (int i = 0; i < textBlocks.size(); i++){
+        for (int i = 0; i < textBlocks.size(); i++) {
             String[] satirlar = textBlocks.valueAt(i).getValue().split("\n");
-            for(String satir : satirlar){
+            for (String satir : satirlar) {
                 String[] kelimeler = satir.split(" ");
-                for(String kelime : kelimeler){
+                for (String kelime : kelimeler) {
                     for (int j = 0; j < MainActivity.veritabani.size(); j++) {
                         if (kelime.equals(MainActivity.veritabani.keyAt(j))) {
-                            okunan += kelime + " ";
+                            okunan += kelime + ", ";
                         }
                     }
                 }

@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1034747305528-db52ptfac9n9jjq3kmp8m3bbjco4f3sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deneme",
+            "certificate_hash": "4de1da6f5251440356e59e006a54beb0fa5dc0fb"
+          }
+        },
+        {
           "client_id": "1034747305528-gn9jvcpvmtdv5ntnohrfks7qjtiqlvfm.apps.googleusercontent.com",
           "client_type": 3
         }

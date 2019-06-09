@@ -17,6 +17,8 @@ import android.util.Log;
 import android.util.SparseArray;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import com.google.android.gms.vision.CameraSource;
@@ -33,7 +35,8 @@ public class Kamera extends AppCompatActivity {
     TextView mTextView;
     SurfaceView mCameraView;
     CameraSource mCameraSource;
-    String okunan = "";
+    String okunan = "İçindekiler: ";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -48,6 +51,14 @@ public class Kamera extends AppCompatActivity {
             startCameraSource(getApplicationContext());
         }
 
+        Button btn = findViewById(R.id.btn_tmm);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                MainActivity.textView.setText(okunan);
+                finish();
+            }
+        });
     }
 
     @Override
@@ -124,16 +135,25 @@ public class Kamera extends AppCompatActivity {
                                             for (int j = 0; j < MainActivity.veritabani.size(); j++) {
                                                 if (kelime.equals(MainActivity.veritabani.keyAt(j))) {
                                                     gida = true;
-                                                    String[] kodlar = okunan.split(" ");
-                                                    for (String kod : kodlar) {
-                                                        if (kod.equals(kelime)) {
-                                                            izin = false;
+                                                    String[] kodlar = okunan.split(", ");
+
+                                                    for (int k = 0; k < kodlar.length; k++) {
+
+                                                        String yazi = kodlar[k];
+
+                                                        if (k == 0) {
+                                                            if (yazi.split(": ").length > 1)
+                                                                yazi = kodlar[k].split(": ")[1];
                                                         }
+
+                                                        if (yazi.equals(kelime))
+                                                            izin = false;
+
                                                     }
                                                 }
                                             }
                                             if (izin && gida) {
-                                                okunan += kelime + " ";
+                                                okunan += kelime + ", ";
                                             }
                                         }
                                     }

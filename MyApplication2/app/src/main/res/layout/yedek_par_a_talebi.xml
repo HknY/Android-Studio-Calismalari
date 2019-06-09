@@ -1,0 +1,3213 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the PSD File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		ho_geldin___1
+	 *	@date 		0
+	 *	@title 		Hogeldin  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.8.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/yedek_par_a_talebi" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="667dp" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_yedek_par_a_talebi_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__yedek_par_a_talebi_ek2"
+					android:background="@drawable/_bg__yedek_par_a_talebi_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="667dp" />
+
+
+				<RelativeLayout android:id="@+id/header_ek15"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_5_ek15"
+						android:background="@drawable/rectangle_5_ek15_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="375dp"
+						android:layout_height="82.291641235352dp" />
+
+
+					<RelativeLayout android:id="@+id/arama_kutusu_ek15"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_10_ek15"
+							android:src="@drawable/path_10_ek15"
+							android:contentDescription="path_10_ek15"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="375dp"
+							android:layout_height="35.416656494141dp" />
+
+
+						<RelativeLayout android:id="@+id/microphone_ek15"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="353dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_8_ek15"
+								android:src="@drawable/path_8_ek15"
+								android:contentDescription="path_8_ek15"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="8dp"
+								android:layout_width="9.1670532226562dp"
+								android:layout_height="8.5224914550781dp" />
+
+							<ImageView android:id="@+id/path_9_ek15"
+								android:src="@drawable/path_9_ek15"
+								android:contentDescription="path_9_ek15"
+								 android:layout_marginLeft="1dp"
+								 android:layout_marginStart="1dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="6.3023376464844dp"
+								android:layout_height="13.067794799805dp" />
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_r_n__kategori_veya_marka_ara____ek15"
+							android:fontFamily="Roboto"
+							android:alpha="0.5"
+							 android:textSize="12sp"
+							android:textColor="#000000"
+							android:layout_marginLeft="49dp"
+							android:layout_marginTop="8dp"
+							android:layout_width="172dp"
+							android:layout_height="18dp"
+							android:text="rn, kategori veya marka ara..."
+							 />
+
+
+						<RelativeLayout android:id="@+id/arama_ikonu_ek15"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="17dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_6_ek15"
+								android:src="@drawable/path_6_ek15"
+								android:contentDescription="path_6_ek15"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="16.535461425781dp"
+								android:layout_height="16.401306152344dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/arama_kutucu_u_ek15"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="4dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/search_field_ek15"
+							android:background="@drawable/search_field_ek15_shape"
+							 android:alpha="0.12156862745098"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="366.51385498047dp"
+							android:layout_height="36dp" />
+
+
+						<RelativeLayout android:id="@+id/action_ek15"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="343dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/dictation_ek15"
+								android:src="@drawable/dictation_ek15"
+								android:contentDescription="dictation_ek15"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="11.999694824219dp"
+								android:layout_height="18.999908447266dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/search_ek30"
+							android:layout_marginTop="8dp"
+							android:layout_marginStart="31dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/muted_ek41"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/___text_ek15"
+									android:fontFamily="SF Pro Text"
+									android:textSize="17sp"
+									android:textColor="#000000"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="304dp"
+									android:layout_height="25dp"
+									android:text="rn, kategori veya marka ara..."
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/search_ek31"
+							android:src="@drawable/search_ek31"
+							android:contentDescription="search_ek31"
+							 android:layout_marginLeft="10dp"
+							 android:layout_marginStart="10dp"
+							android:layout_marginTop="11dp"
+							android:layout_width="14.000061035156dp"
+							android:layout_height="13.999176025391dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_st_men__ek15"
+						android:layout_marginTop="3dp"
+						android:layout_marginStart="17dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/bildirim_ek15"
+							android:layout_marginTop="7dp"
+							android:layout_marginStart="320dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/bell_ek15"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="5dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+
+								<RelativeLayout android:id="@+id/group_2_ek15"
+									android:layout_marginTop="0dp"
+									android:layout_marginStart="0dp"
+									android:layout_width="wrap_content"
+									android:layout_height="wrap_content"
+									>
+
+
+									<RelativeLayout android:id="@+id/group_1_ek15"
+										android:layout_marginTop="0dp"
+										android:layout_marginStart="0dp"
+										android:layout_width="wrap_content"
+										android:layout_height="wrap_content"
+										>
+
+										<ImageView android:id="@+id/path_11_ek15"
+											android:src="@drawable/path_11_ek15"
+											android:contentDescription="path_11_ek15"
+											 android:layout_marginLeft="6dp"
+											 android:layout_marginStart="6dp"
+											android:layout_marginTop="18dp"
+											android:layout_width="4.949951171875dp"
+											android:layout_height="2.4912719726562dp" />
+
+										<ImageView android:id="@+id/path_12_ek15"
+											android:src="@drawable/path_12_ek15"
+											android:contentDescription="path_12_ek15"
+											 android:layout_marginLeft="0dp"
+											 android:layout_marginStart="0dp"
+											android:layout_marginTop="0dp"
+											android:layout_width="16.194152832031dp"
+											android:layout_height="17.047805786133dp" />
+
+									</RelativeLayout>
+
+								</RelativeLayout>
+
+							</RelativeLayout>
+
+							<View android:id="@+id/ellipse_1_ek15"
+								android:background="@drawable/ellipse_1_ek15_shape"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="10dp"
+								android:layout_width="12dp"
+								android:layout_height="12dp" />
+
+							<TextView android:id="@+id/_1_ek15"
+								android:fontFamily="Open Sans"
+								android:textColor="#ffffff"
+								android:layout_marginLeft="4dp"
+								android:layout_marginTop="12dp"
+								android:layout_width="9dp"
+								android:layout_height="10dp"
+								android:text="1"
+								 />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/menu_button_ek15"
+							android:layout_marginTop="11dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/menu_ek15"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_4_ek15"
+									android:src="@drawable/path_4_ek15"
+									android:contentDescription="path_4_ek15"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26.58984375dp"
+									android:layout_height="17.726585388184dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/plus_ek15"
+							android:src="@drawable/plus_ek15"
+							android:contentDescription="plus_ek15"
+							 android:layout_marginLeft="104dp"
+							 android:layout_marginStart="104dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="133dp"
+							android:layout_height="34dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/ba_l_k_ek14"
+					android:layout_marginTop="93dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/preview_ek15"
+						android:fontFamily="SF Pro Text"
+						android:textSize="15sp"
+						android:textColor="#d7101f"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="125dp"
+						android:layout_height="23dp"
+						android:text="Yedek Para Talebi"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_25_ek2"
+					android:layout_marginTop="131dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek8"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek24"
+							android:background="@drawable/rectangle_22_ek24_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek25"
+							android:background="@drawable/rectangle_22_ek25_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek26"
+							android:background="@drawable/rectangle_22_ek26_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek8"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek8"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek8"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="9dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek24"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek24"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek24"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek24"
+							android:src="@drawable/_9591562469426_ek24"
+							android:contentDescription="_9591562469426_ek24"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677017211914dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek8"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek8"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek8"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="10dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek25"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek25"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek25"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek25"
+							android:src="@drawable/_9591562469426_ek25"
+							android:contentDescription="_9591562469426_ek25"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677017211914dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek8"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek8"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek8"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="10dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek26"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek26"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek26"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek26"
+							android:src="@drawable/_9591562469426_ek26"
+							android:contentDescription="_9591562469426_ek26"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677017211914dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek9"
+						android:layout_marginTop="151dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek27"
+							android:background="@drawable/rectangle_22_ek27_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek28"
+							android:background="@drawable/rectangle_22_ek28_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek29"
+							android:background="@drawable/rectangle_22_ek29_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek9"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek9"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek9"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek27"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek27"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek27"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek27"
+							android:src="@drawable/_9591562469426_ek27"
+							android:contentDescription="_9591562469426_ek27"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek9"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek9"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek9"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="9.9999694824219dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek28"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek28"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek28"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek28"
+							android:src="@drawable/_9591562469426_ek28"
+							android:contentDescription="_9591562469426_ek28"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek9"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek9"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek9"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="9.9999694824219dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek29"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek29"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek29"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek29"
+							android:src="@drawable/_9591562469426_ek29"
+							android:contentDescription="_9591562469426_ek29"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek10"
+						android:layout_marginTop="302dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek30"
+							android:background="@drawable/rectangle_22_ek30_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek31"
+							android:background="@drawable/rectangle_22_ek31_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek32"
+							android:background="@drawable/rectangle_22_ek32_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek10"
+						android:layout_marginTop="304dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek10"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek10"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="9dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek30"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek30"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek30"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek30"
+							android:src="@drawable/_9591562469426_ek30"
+							android:contentDescription="_9591562469426_ek30"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek10"
+						android:layout_marginTop="304dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek10"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek10"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="10dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek31"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek31"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek31"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek31"
+							android:src="@drawable/_9591562469426_ek31"
+							android:contentDescription="_9591562469426_ek31"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek10"
+						android:layout_marginTop="304dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek10"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek10"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="10dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek32"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek32"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek32"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek32"
+							android:src="@drawable/_9591562469426_ek32"
+							android:contentDescription="_9591562469426_ek32"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek11"
+						android:layout_marginTop="453dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek33"
+							android:background="@drawable/rectangle_22_ek33_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek34"
+							android:background="@drawable/rectangle_22_ek34_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek35"
+							android:background="@drawable/rectangle_22_ek35_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek11"
+						android:layout_marginTop="455dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek11"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek11"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="9dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek33"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek33"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek33"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek33"
+							android:src="@drawable/_9591562469426_ek33"
+							android:contentDescription="_9591562469426_ek33"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek11"
+						android:layout_marginTop="455dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek11"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek11"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="10dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek34"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek34"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek34"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek34"
+							android:src="@drawable/_9591562469426_ek34"
+							android:contentDescription="_9591562469426_ek34"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek11"
+						android:layout_marginTop="455dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek11"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek11"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="10dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek35"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek35"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek35"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek35"
+							android:src="@drawable/_9591562469426_ek35"
+							android:contentDescription="_9591562469426_ek35"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/footer_ek15"
+					android:layout_marginTop="616dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_6_ek15"
+						android:background="@drawable/rectangle_6_ek15_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="15dp"
+						android:layout_width="375dp"
+						android:layout_height="42.291625976562dp" />
+
+
+					<RelativeLayout android:id="@+id/acil_teknik_destek_ek15"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="156dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_18_ek15"
+							android:src="@drawable/path_18_ek15"
+							android:contentDescription="path_18_ek15"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="63.231506347656dp"
+							android:layout_height="89dp" />
+
+						<ImageView android:id="@+id/repairing_service_ek15"
+							android:src="@drawable/repairing_service_ek15"
+							android:contentDescription="repairing_service_ek15"
+							 android:layout_marginLeft="14dp"
+							 android:layout_marginStart="14dp"
+							android:layout_marginTop="14dp"
+							android:layout_width="35.747222900391dp"
+							android:layout_height="35.747741699219dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yan_se_enekler_ek15"
+						android:layout_marginTop="18dp"
+						android:layout_marginStart="44dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/ileti_im_ek15"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="209dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_13_ek15"
+								android:src="@drawable/path_13_ek15"
+								android:contentDescription="path_13_ek15"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="28.922973632812dp"
+								android:layout_height="25.709289550781dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/history_clock_button_ek15"
+							android:layout_marginTop="1dp"
+							android:layout_marginStart="210dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/history_ek15"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_29_ek15"
+									android:src="@drawable/path_29_ek15"
+									android:contentDescription="path_29_ek15"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26.047576904297dp"
+									android:layout_height="24.86083984375dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/profil_ek15"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="269dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_14_ek15"
+								android:src="@drawable/path_14_ek15"
+								android:contentDescription="path_14_ek15"
+								 android:layout_marginLeft="5dp"
+								 android:layout_marginStart="5dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="10.522125244141dp"
+								android:layout_height="12.780334472656dp" />
+
+
+
+							<ImageView android:id="@+id/path_17_ek15"
+								android:src="@drawable/path_17_ek15"
+								android:contentDescription="path_17_ek15"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="13dp"
+								android:layout_width="19.873565673828dp"
+								android:layout_height="12.861511230469dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/konum_ek15"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="57dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/facebook_places_ek15"
+								android:src="@drawable/facebook_places_ek15"
+								android:contentDescription="facebook_places_ek15"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="17.6318359375dp"
+								android:layout_height="25.594360351562dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/sepetim_ek15"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/shopping_cart_ek15"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_5_ek15"
+									android:src="@drawable/path_5_ek15"
+									android:contentDescription="path_5_ek15"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26dp"
+									android:layout_height="26dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/header_ek16"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_5_ek16"
+						android:background="@drawable/rectangle_5_ek16_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="375dp"
+						android:layout_height="82.291641235352dp" />
+
+
+					<RelativeLayout android:id="@+id/arama_kutusu_ek16"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_10_ek16"
+							android:src="@drawable/path_10_ek16"
+							android:contentDescription="path_10_ek16"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="375dp"
+							android:layout_height="35.416656494141dp" />
+
+
+						<RelativeLayout android:id="@+id/microphone_ek16"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="353dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_8_ek16"
+								android:src="@drawable/path_8_ek16"
+								android:contentDescription="path_8_ek16"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="8dp"
+								android:layout_width="9.1670532226562dp"
+								android:layout_height="8.5224914550781dp" />
+
+							<ImageView android:id="@+id/path_9_ek16"
+								android:src="@drawable/path_9_ek16"
+								android:contentDescription="path_9_ek16"
+								 android:layout_marginLeft="1dp"
+								 android:layout_marginStart="1dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="6.3023376464844dp"
+								android:layout_height="13.067794799805dp" />
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_r_n__kategori_veya_marka_ara____ek16"
+							android:fontFamily="Roboto"
+							android:alpha="0.5"
+							 android:textSize="12sp"
+							android:textColor="#000000"
+							android:layout_marginLeft="49dp"
+							android:layout_marginTop="8dp"
+							android:layout_width="172dp"
+							android:layout_height="18dp"
+							android:text="rn, kategori veya marka ara..."
+							 />
+
+
+						<RelativeLayout android:id="@+id/arama_ikonu_ek16"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="17dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_6_ek16"
+								android:src="@drawable/path_6_ek16"
+								android:contentDescription="path_6_ek16"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="16.535461425781dp"
+								android:layout_height="16.401306152344dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/arama_kutucu_u_ek16"
+						android:layout_marginTop="41dp"
+						android:layout_marginStart="4dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/search_field_ek16"
+							android:background="@drawable/search_field_ek16_shape"
+							 android:alpha="0.12156862745098"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="366.51385498047dp"
+							android:layout_height="36dp" />
+
+
+						<RelativeLayout android:id="@+id/action_ek16"
+							android:layout_marginTop="9dp"
+							android:layout_marginStart="343dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/dictation_ek16"
+								android:src="@drawable/dictation_ek16"
+								android:contentDescription="dictation_ek16"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="11.999694824219dp"
+								android:layout_height="18.999908447266dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/search_ek32"
+							android:layout_marginTop="8dp"
+							android:layout_marginStart="31dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/muted_ek42"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/___text_ek16"
+									android:fontFamily="SF Pro Text"
+									android:textSize="17sp"
+									android:textColor="#000000"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="304dp"
+									android:layout_height="25dp"
+									android:text="rn, kategori veya marka ara..."
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/search_ek33"
+							android:src="@drawable/search_ek33"
+							android:contentDescription="search_ek33"
+							 android:layout_marginLeft="10dp"
+							 android:layout_marginStart="10dp"
+							android:layout_marginTop="11dp"
+							android:layout_width="14.000061035156dp"
+							android:layout_height="13.999176025391dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_st_men__ek16"
+						android:layout_marginTop="3dp"
+						android:layout_marginStart="17dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/bildirim_ek16"
+							android:layout_marginTop="7dp"
+							android:layout_marginStart="320dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/bell_ek16"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="5dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+
+								<RelativeLayout android:id="@+id/group_2_ek16"
+									android:layout_marginTop="0dp"
+									android:layout_marginStart="0dp"
+									android:layout_width="wrap_content"
+									android:layout_height="wrap_content"
+									>
+
+
+									<RelativeLayout android:id="@+id/group_1_ek16"
+										android:layout_marginTop="0dp"
+										android:layout_marginStart="0dp"
+										android:layout_width="wrap_content"
+										android:layout_height="wrap_content"
+										>
+
+										<ImageView android:id="@+id/path_11_ek16"
+											android:src="@drawable/path_11_ek16"
+											android:contentDescription="path_11_ek16"
+											 android:layout_marginLeft="6dp"
+											 android:layout_marginStart="6dp"
+											android:layout_marginTop="18dp"
+											android:layout_width="4.949951171875dp"
+											android:layout_height="2.4912719726562dp" />
+
+										<ImageView android:id="@+id/path_12_ek16"
+											android:src="@drawable/path_12_ek16"
+											android:contentDescription="path_12_ek16"
+											 android:layout_marginLeft="0dp"
+											 android:layout_marginStart="0dp"
+											android:layout_marginTop="0dp"
+											android:layout_width="16.194152832031dp"
+											android:layout_height="17.047805786133dp" />
+
+									</RelativeLayout>
+
+								</RelativeLayout>
+
+							</RelativeLayout>
+
+							<View android:id="@+id/ellipse_1_ek16"
+								android:background="@drawable/ellipse_1_ek16_shape"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="10dp"
+								android:layout_width="12dp"
+								android:layout_height="12dp" />
+
+							<TextView android:id="@+id/_1_ek16"
+								android:fontFamily="Open Sans"
+								android:textColor="#ffffff"
+								android:layout_marginLeft="4dp"
+								android:layout_marginTop="12dp"
+								android:layout_width="9dp"
+								android:layout_height="10dp"
+								android:text="1"
+								 />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/menu_button_ek16"
+							android:layout_marginTop="11dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/menu_ek16"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_4_ek16"
+									android:src="@drawable/path_4_ek16"
+									android:contentDescription="path_4_ek16"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26.58984375dp"
+									android:layout_height="17.726585388184dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/plus_ek16"
+							android:src="@drawable/plus_ek16"
+							android:contentDescription="plus_ek16"
+							 android:layout_marginLeft="104dp"
+							 android:layout_marginStart="104dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="133dp"
+							android:layout_height="34dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/ba_l_k_ek15"
+					android:layout_marginTop="99dp"
+					android:layout_marginStart="154dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/arrow_ek22"
+						android:src="@drawable/arrow_ek22"
+						android:contentDescription="arrow_ek22"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="6.60888671875dp"
+						android:layout_height="11.290679931641dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_26_ek1"
+					android:layout_marginTop="131dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek12"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek36"
+							android:background="@drawable/rectangle_22_ek36_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek37"
+							android:background="@drawable/rectangle_22_ek37_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek38"
+							android:background="@drawable/rectangle_22_ek38_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek12"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek12"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek12"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="9dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek36"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek36"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek36"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek36"
+							android:src="@drawable/_9591562469426_ek36"
+							android:contentDescription="_9591562469426_ek36"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677017211914dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek12"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek12"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek12"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="10dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek37"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek37"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek37"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek37"
+							android:src="@drawable/_9591562469426_ek37"
+							android:contentDescription="_9591562469426_ek37"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677017211914dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek12"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek12"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek12"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="10dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek38"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek38"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek38"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek38"
+							android:src="@drawable/_9591562469426_ek38"
+							android:contentDescription="_9591562469426_ek38"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677017211914dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek13"
+						android:layout_marginTop="151dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek39"
+							android:background="@drawable/rectangle_22_ek39_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek40"
+							android:background="@drawable/rectangle_22_ek40_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek41"
+							android:background="@drawable/rectangle_22_ek41_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek13"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek13"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek13"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek39"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek39"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek39"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek39"
+							android:src="@drawable/_9591562469426_ek39"
+							android:contentDescription="_9591562469426_ek39"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek13"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek13"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek13"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="9.9999694824219dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek40"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek40"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek40"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek40"
+							android:src="@drawable/_9591562469426_ek40"
+							android:contentDescription="_9591562469426_ek40"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek13"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek13"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906707763672dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek13"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="9.9999694824219dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek41"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek41"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="8.9999694824219dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek41"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek41"
+							android:src="@drawable/_9591562469426_ek41"
+							android:contentDescription="_9591562469426_ek41"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek14"
+						android:layout_marginTop="302dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek42"
+							android:background="@drawable/rectangle_22_ek42_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek43"
+							android:background="@drawable/rectangle_22_ek43_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek44"
+							android:background="@drawable/rectangle_22_ek44_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek14"
+						android:layout_marginTop="304dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek14"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek14"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="9dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek42"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek42"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek42"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek42"
+							android:src="@drawable/_9591562469426_ek42"
+							android:contentDescription="_9591562469426_ek42"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek14"
+						android:layout_marginTop="304dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek14"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek14"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="10dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek43"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek43"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek43"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek43"
+							android:src="@drawable/_9591562469426_ek43"
+							android:contentDescription="_9591562469426_ek43"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek14"
+						android:layout_marginTop="304dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek14"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek14"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="10dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek44"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek44"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek44"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek44"
+							android:src="@drawable/_9591562469426_ek44"
+							android:contentDescription="_9591562469426_ek44"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/_r_n_slideri_ek15"
+						android:layout_marginTop="453dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_22_ek45"
+							android:background="@drawable/rectangle_22_ek45_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek46"
+							android:background="@drawable/rectangle_22_ek46_shape"
+							 android:layout_marginLeft="119dp"
+							 android:layout_marginStart="119dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+						<View android:id="@+id/rectangle_22_ek47"
+							android:background="@drawable/rectangle_22_ek47_shape"
+							 android:layout_marginLeft="238dp"
+							 android:layout_marginStart="238dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="104.42932128906dp"
+							android:layout_height="134.89715576172dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/bisiklet_ek15"
+						android:layout_marginTop="455dp"
+						android:layout_marginStart="3dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__carraro_20__flexi_106_6_v_vb__ek15"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Carraro 20 Flexi 106 6-V Vb "
+							 />
+
+						<TextView android:id="@+id/_379_ek15"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="15dp"
+							android:layout_height="9dp"
+							android:text="379"
+							 />
+
+						<TextView android:id="@+id/__00_ek45"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="13dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek45"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek45"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek45"
+							android:src="@drawable/_9591562469426_ek45"
+							android:contentDescription="_9591562469426_ek45"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/msi_ek15"
+						android:layout_marginTop="455dp"
+						android:layout_marginStart="123dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__msi_ge63_7rd_raider__ek15"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="MSI GE63 7RD(Raider)"
+							 />
+
+						<TextView android:id="@+id/_9_078_ek15"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="23dp"
+							android:layout_height="10dp"
+							android:text="9.078"
+							 />
+
+						<TextView android:id="@+id/__00_ek46"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="20dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek46"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="26dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek46"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="1dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek46"
+							android:src="@drawable/_9591562469426_ek46"
+							android:contentDescription="_9591562469426_ek46"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/huawei_ek15"
+						android:layout_marginTop="455dp"
+						android:layout_marginStart="243dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/__p__huawei_mate_10_lite_ek15"
+							android:fontFamily="Roboto"
+							android:textColor="#000000"
+							android:layout_marginLeft="3dp"
+							android:layout_marginTop="102dp"
+							android:layout_width="95dp"
+							android:layout_height="12.906677246094dp"
+							android:text="Huawei Mate 10 Lite"
+							 />
+
+						<TextView android:id="@+id/_1799_ek15"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="21dp"
+							android:layout_height="10dp"
+							android:text="1799"
+							 />
+
+						<TextView android:id="@+id/__00_ek47"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="19dp"
+							android:layout_marginTop="115dp"
+							android:layout_width="9dp"
+							android:layout_height="5dp"
+							android:text=",00"
+							 />
+
+						<TextView android:id="@+id/tl_ek47"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#000000"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="113dp"
+							android:layout_width="11dp"
+							android:layout_height="9dp"
+							android:text="TL"
+							 />
+
+						<TextView android:id="@+id/_cretsiz_kargo_ek47"
+							android:fontFamily="Roboto"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textColor="#10ff00"
+							android:layout_marginLeft="2dp"
+							android:layout_marginTop="123dp"
+							android:layout_width="39dp"
+							android:layout_height="9dp"
+							android:text="cretsiz Kargo"
+							 />
+
+						<ImageView android:id="@+id/_9591562469426_ek47"
+							android:src="@drawable/_9591562469426_ek47"
+							android:contentDescription="_9591562469426_ek47"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="102.98199462891dp"
+							android:layout_height="96.677001953125dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/footer_ek16"
+					android:layout_marginTop="616dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_6_ek16"
+						android:background="@drawable/rectangle_6_ek16_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="15dp"
+						android:layout_width="375dp"
+						android:layout_height="42.291625976562dp" />
+
+
+					<RelativeLayout android:id="@+id/acil_teknik_destek_ek16"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="156dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/path_18_ek16"
+							android:src="@drawable/path_18_ek16"
+							android:contentDescription="path_18_ek16"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="63.231506347656dp"
+							android:layout_height="89dp" />
+
+						<ImageView android:id="@+id/repairing_service_ek16"
+							android:src="@drawable/repairing_service_ek16"
+							android:contentDescription="repairing_service_ek16"
+							 android:layout_marginLeft="14dp"
+							 android:layout_marginStart="14dp"
+							android:layout_marginTop="14dp"
+							android:layout_width="35.747222900391dp"
+							android:layout_height="35.747741699219dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yan_se_enekler_ek16"
+						android:layout_marginTop="18dp"
+						android:layout_marginStart="44dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/ileti_im_ek16"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="209dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_13_ek16"
+								android:src="@drawable/path_13_ek16"
+								android:contentDescription="path_13_ek16"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="28.922973632812dp"
+								android:layout_height="25.709289550781dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/history_clock_button_ek16"
+							android:layout_marginTop="1dp"
+							android:layout_marginStart="210dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/history_ek16"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_29_ek16"
+									android:src="@drawable/path_29_ek16"
+									android:contentDescription="path_29_ek16"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26.047576904297dp"
+									android:layout_height="24.86083984375dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/profil_ek16"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="269dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/path_14_ek16"
+								android:src="@drawable/path_14_ek16"
+								android:contentDescription="path_14_ek16"
+								 android:layout_marginLeft="5dp"
+								 android:layout_marginStart="5dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="10.522125244141dp"
+								android:layout_height="12.780334472656dp" />
+
+
+
+							<ImageView android:id="@+id/path_17_ek16"
+								android:src="@drawable/path_17_ek16"
+								android:contentDescription="path_17_ek16"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="13dp"
+								android:layout_width="19.873565673828dp"
+								android:layout_height="12.861511230469dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/konum_ek16"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="57dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/facebook_places_ek16"
+								android:src="@drawable/facebook_places_ek16"
+								android:contentDescription="facebook_places_ek16"
+								 android:layout_marginLeft="0dp"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="17.6318359375dp"
+								android:layout_height="25.594360351562dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/sepetim_ek16"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/shopping_cart_ek16"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/path_5_ek16"
+									android:src="@drawable/path_5_ek16"
+									android:contentDescription="path_5_ek16"
+									 android:layout_marginLeft="0dp"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="26dp"
+									android:layout_height="26dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#F7F0F0"
     tools:context=".Kamera">
 
     <SurfaceView
@@ -22,12 +23,26 @@
         android:layout_height="142dp"
         android:layout_margin="8dp"
         android:layout_weight="1"
-        android:gravity="center"
-        android:textColor="@android:color/white"
+        android:background="#F7F0F0"
+        android:gravity="start|top"
+        android:text="İçindekiler: "
+        android:textColor="#475B63"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_tmm"
+        android:layout_width="75dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rectangle"
+        android:text="Tamam"
+        app:layout_constraintBottom_toTopOf="@+id/text_view"
+        app:layout_constraintEnd_toEndOf="parent" />
 
 </android.support.constraint.ConstraintLayout>

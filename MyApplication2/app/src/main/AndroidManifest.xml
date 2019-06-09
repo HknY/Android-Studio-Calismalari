@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:icon="@mipmap/ic_launcher"
+		android:roundIcon="@mipmap/ic_launcher_round"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".ho_geldin___1_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.xd.giri__yap___1_activity"></activity>
+			<activity android:name="exportkit.xd.kay_t_ol__1___1_activity"></activity>
+			<activity android:name="exportkit.xd.kay_t_ol__2___1_activity"></activity>
+			<activity android:name="exportkit.xd._ehir_se_imi_activity"></activity>
+			<activity android:name="exportkit.xd.dashboard___3_activity"></activity>
+			<activity android:name="exportkit.xd.destek_taleplerim___1_activity"></activity>
+			<activity android:name="exportkit.xd.destek_talep___eri_i_activity"></activity>
+			<activity android:name="exportkit.xd.telefon_santral_servis_talebi___1_activity"></activity>
+			<activity android:name="exportkit.xd.telefon_santral_servis_talebi___2_activity"></activity>
+			<activity android:name="exportkit.xd.kamera_servisi_talebi___1___1_activity"></activity>
+			<activity android:name="exportkit.xd.kamera_servisi_talebi___2___1_activity"></activity>
+			<activity android:name="exportkit.xd._nternet_hizmeti_talebi__1_activity"></activity>
+			<activity android:name="exportkit.xd._nternet_hizmeti_talebi___2_activity"></activity>
+			<activity android:name="exportkit.xd.yaz_c__servisi___1_activity"></activity>
+			<activity android:name="exportkit.xd.yaz_c__servisi___2_activity"></activity>
+			<activity android:name="exportkit.xd.yaz_l_m_destek_talebi___1_activity"></activity>
+			<activity android:name="exportkit.xd.yaz_l_m_destek_talebi___2_activity"></activity>
+			<activity android:name="exportkit.xd.erikrende__paket___eri_i_activity"></activity>
+			<activity android:name="exportkit.xd.yedek_par_a_talebi_activity"></activity>
+			<activity android:name="exportkit.xd.bilgisayar__notebook_servisi_activity"></activity>
+			<activity android:name="exportkit.xd.cep_telefonu_tablet_servisi_activity"></activity>
+			<activity android:name="exportkit.xd.servis_anla_mas__activity"></activity>
+			<activity android:name="exportkit.xd.sepetim_activity"></activity>
+			<activity android:name="exportkit.xd.profil_activity"></activity>
+			<activity android:name="exportkit.xd.bildirimler_activity"></activity>
+			<activity android:name="exportkit.xd.yaz_c__servisi___2___1_activity"></activity>
+			<activity android:name="exportkit.xd.yaz_l_m_destek_talebi___2___1_activity"></activity>
+			<activity android:name="exportkit.xd.telefon_santral_servis_talebi___1___1_activity"></activity>
+			<activity android:name="exportkit.xd.kamera_servisi_talebi___2___2_activity"></activity>
+			<activity android:name="exportkit.xd.cep_telefonu_tablet_servisi___1_activity"></activity>
+			<activity android:name="exportkit.xd.bilgisayar__notebook_servisi___1_activity"></activity>
+			<activity android:name="exportkit.xd._nternet_hizmeti_talebi___2___1_activity"></activity>
+			<activity android:name="exportkit.xd.servis_anla_mas____1_activity"></activity>
+			<activity android:name="exportkit.xd.profil___1_activity"></activity>
+			<activity android:name="exportkit.xd.profil___2_activity"></activity>
+			<activity android:name="exportkit.xd.profil___3_activity"></activity>
+			<activity android:name="exportkit.xd._leti_im_activity"></activity>
+			<activity android:name="exportkit.xd.konum___2_activity"></activity>
+			<activity android:name="exportkit.xd.konum___3_activity"></activity>
+	</application>
+
+</manifest>
+	
+	
