@@ -18,6 +18,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.util.SparseArray;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -50,6 +51,8 @@ public class Fotograf extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fotograf);
+
+        //getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         btnSecCek = (Button) findViewById(R.id.btnSecCek);
         btnoku = findViewById(R.id.btnOku);
@@ -87,9 +90,18 @@ public class Fotograf extends AppCompatActivity {
             }
         }
         yazi = okunan;
+        MainActivity.textView.setText(MainActivity.textView.getText() + okunan);
 
-        Intent git = new Intent(getApplicationContext(), MainActivity.class);
-        startActivity(git);
+        String[] yazi = MainActivity.textView.getText().toString().split(", ");
+
+        if (yazi[0].split(": ").length < 2) {
+            MainActivity.txt_bilgi.setVisibility(View.INVISIBLE);
+            MainActivity.bar.setProgress(0);
+            MainActivity.txt_sonuc.setText("Sonuç: ");
+        } else
+            MainActivity.txt_bilgi.setVisibility(View.VISIBLE);
+
+        finish();
     }
 
     public void SecCek(View view) {

@@ -18,6 +18,7 @@ import android.util.SparseArray;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
 
@@ -42,6 +43,8 @@ public class Kamera extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kamera);
 
+        //getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+
         mTextView = findViewById(R.id.text_view);
         mCameraView = findViewById(R.id.surfaceView);
 
@@ -56,6 +59,17 @@ public class Kamera extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 MainActivity.textView.setText(okunan);
+
+                String[] yazi = MainActivity.textView.getText().toString().split(", ");
+
+                if (yazi[0].split(": ").length < 2) {
+                    MainActivity.txt_bilgi.setVisibility(View.INVISIBLE);
+                    MainActivity.bar.setProgress(0);
+                    MainActivity.txt_sonuc.setText("Sonuç: ");
+                } else
+                    MainActivity.txt_bilgi.setVisibility(View.VISIBLE);
+
+
                 finish();
             }
         });
